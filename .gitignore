@@ -50,6 +50,7 @@ android/key.properties
 
 ios/Runner/GoogleService-Info.plist
 ios/Runner/Info.plist
+ios/Runner/AppDelegate.swift
 
 .env
 lib/firebase_options.dart
