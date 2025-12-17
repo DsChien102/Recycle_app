@@ -20,35 +20,35 @@ Dự án **Recycle App** được xây dựng trong quá trình học Flutter.
 1. Hệ thống đăng ký đăng nhập của người dùng và quản trị viên
 
 <p align="center">
-  <img src="images/image11.png" width="200"/> &nbsp;
-  <img src="images/image12.png" width="200"/> &nbsp;
-  <img src="images/image22.png" width="200"/>
+  <img src="images/image11.png" width="160"/> &nbsp;
+  <img src="images/image12.png" width="160"/> &nbsp;
+  <img src="images/image22.png" width="160"/>
 </p>
 
 2. Giao diện người dùng
 
 <p align="center">
-  <img src="images/image1.png" width="200" /> &nbsp;
-  <img src="images/image2.png" width="200" /> &nbsp;
-  <img src="images/image6.png" width="200" /> &nbsp;
-  <img src="images/image7.png" width="200"/>
+  <img src="images/image1.png" width="160" /> &nbsp;
+  <img src="images/image2.png" width="160" /> &nbsp;
+  <img src="images/image6.png" width="160" /> &nbsp;
+  <img src="images/image7.png" width="160"/>
 </p>
 
 3. Các tính năng chính của người dùng
 
 <p align="center">
-  <img src="images/image4.png" width="200" style="margin-right:20px;"/>
-  <img src="images/image3.png" width="200" style="margin-right:20px;"/>
-  <img src="images/image6.png" width="200" style="margin-right:20px;"/>
-  <img src="images/image5.png" width="200"/>
+  <img src="images/image4.png" width="160" style="margin-right:20px;"/>
+  <img src="images/image3.png" width="160" style="margin-right:20px;"/>
+  <img src="images/image6.png" width="160" style="margin-right:20px;"/>
+  <img src="images/image5.png" width="160"/>
 </p>
 
 4. Các chức năng của quản trị viên
 
 <p align="center">
-  <img src="images/image23.png" width="200" style="margin-right:20px;"/>
-  <img src="images/image24.png" width="200" style="margin-right:20px;"/>
-  <img src="images/image20.png" width="200"/>
+  <img src="images/image23.png" width="160" style="margin-right:20px;"/>
+  <img src="images/image24.png" width="160" style="margin-right:20px;"/>
+  <img src="images/image20.png" width="160"/>
 </p>
 
 ## 🛠️ Công nghệ sử dụng
