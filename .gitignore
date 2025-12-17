@@ -45,9 +45,14 @@ app.*.map.json
 /android/app/release
 
 android/app/google-services.json
+android/local.properties
+android/key.properties
+
 ios/Runner/GoogleService-Info.plist
+ios/Runner/Info.plist
+
+.env
 lib/firebase_options.dart
 
 .vscode/
-.env
 .env.*
