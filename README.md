@@ -37,17 +37,17 @@ Dự án **Recycle App** được xây dựng trong quá trình học Flutter.
 3. Các tính năng chính của người dùng
 
 <p align="center">
-  <img src="images/image4.png" width="160" style="margin-right:20px;"/>
-  <img src="images/image3.png" width="160" style="margin-right:20px;"/>
-  <img src="images/image6.png" width="160" style="margin-right:20px;"/>
+  <img src="images/image4.png" width="160" /> &nbsp;
+  <img src="images/image3.png" width="160" /> &nbsp;
+  <img src="images/image6.png" width="160" /> &nbsp;
   <img src="images/image5.png" width="160"/>
 </p>
 
 4. Các chức năng của quản trị viên
 
 <p align="center">
-  <img src="images/image23.png" width="160" style="margin-right:20px;"/>
-  <img src="images/image24.png" width="160" style="margin-right:20px;"/>
+  <img src="images/image23.png" width="160" /> &nbsp;
+  <img src="images/image24.png" width="160" /> &nbsp;
   <img src="images/image20.png" width="160"/>
 </p>
 
