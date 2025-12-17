@@ -28,9 +28,9 @@ Dự án **Recycle App** được xây dựng trong quá trình học Flutter.
 2. Giao diện người dùng
 
 <p align="center">
-  <img src="images/image1.png" width="200" style="margin-right:20px;"/>
-  <img src="images/image2.png" width="200" style="margin-right:20px;"/>
-  <img src="images/image6.png" width="200" style="margin-right:20px;"/>
+  <img src="images/image1.png" width="200" /> &nbsp;
+  <img src="images/image2.png" width="200" /> &nbsp;
+  <img src="images/image6.png" width="200" /> &nbsp;
   <img src="images/image7.png" width="200"/>
 </p>
 
