@@ -19,13 +19,11 @@ Dự án **Recycle App** được xây dựng trong quá trình học Flutter.
 
 1. Hệ thống đăng ký đăng nhập của người dùng và quản trị viên
 
-<table align="center">
-  <tr>
-    <td><img src="images/image11.png" width="200"/></td>
-    <td><img src="images/image12.png" width="200"/></td>
-    <td><img src="images/image22.png" width="200"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="images/image11.png" width="200"/> &nbsp;
+  <img src="images/image12.png" width="200"/> &nbsp;
+  <img src="images/image22.png" width="200"/>
+</p>
 
 2. Giao diện người dùng
 
